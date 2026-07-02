@@ -12,8 +12,4 @@ I am currently an undergrad student at Indian Institute of Technology Kanpur. <b
 ![](https://streak-stats.demolab.com/?user=basudevm23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=basudevm23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
